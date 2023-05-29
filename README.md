@@ -1,4 +1,4 @@
-# Reame 
+# Readme 
 
 view here  https://calculator-two-fawn.vercel.app/
 
